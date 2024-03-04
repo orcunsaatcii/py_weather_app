@@ -10,7 +10,7 @@ window.geometry("600x600")
 window.config(pady=10, padx=50, bg="#009DFF")
 window.title("Weather Application")
 
-api_key = "63a09a6a8075485cb37190019232309"
+api_key = "YOUR API KEY"
 
 
 def show_weather():
